@@ -1,8 +1,3 @@
-# Course :       CS 4242
-# Student Name:  Robert Johnson
-# Student ID:    000780331
-# Assignment # : 1
-# Due Date:      10/11/2019
 import datetime
 
 
